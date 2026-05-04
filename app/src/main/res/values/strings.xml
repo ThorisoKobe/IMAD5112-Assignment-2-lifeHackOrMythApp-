@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifeHackOrMythApp</string>
+    <string name="startBtn">Start Quiz</string>
+    <string name="hackBtn">Hack (True)</string>
+    <string name="mythBtn">Myth (False)</string>
+    <string name="nextBtn">Next</string>
+    <string name="restartBtn">Restart Quiz</string>
+</resources>

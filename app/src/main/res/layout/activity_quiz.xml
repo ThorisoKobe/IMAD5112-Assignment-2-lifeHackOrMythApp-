@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#0D1B2A"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/questionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:textColor="#E0E1DD"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/hackBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#415A77"
+        android:text="@string/hackBtn"
+        android:textColor="#FFFFFF"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/mythBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#778DA9"
+        android:text="@string/mythBtn"
+        android:textColor="#FFFFFF"
+        android:textSize="23sp" />
+
+    <TextView
+        android:id="@+id/feedbackText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#A9BCD0"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/nextBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#1B263B"
+        android:text="@string/nextBtn"
+        android:textColor="#FFFFFF"
+        android:textSize="23sp" />
+</LinearLayout>

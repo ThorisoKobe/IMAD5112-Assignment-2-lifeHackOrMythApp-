@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#0D1B2A"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/scoreText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:textColor="#E0E1DD"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/restartBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#1B263B"
+        android:text="@string/restartBtn"
+        android:textColor="#FFFFFF"
+        android:textSize="23sp" />
+</LinearLayout>
