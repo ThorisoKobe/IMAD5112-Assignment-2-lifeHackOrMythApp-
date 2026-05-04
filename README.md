@@ -9,7 +9,7 @@
 - **Subject**: IMAD5112
 
 ## Links
-- **GitHub Repository**:
+- **GitHub Repository**: https://github.com/ThorisoKobe/IMAD5112-Assignment-2-lifeHackOrMythApp-/tree/main
 - **YouTube Video**: 
   
 
@@ -76,9 +76,14 @@ The workflow ensures that my project is automatically built and tested every tim
 ## Screenshots
 
 ### App Screenshots:
-![figure 1:] 
-*Figure 1.1:
-![figure 2]
+![figure 1:] <img width="468" height="804" alt="home screenn" src="https://github.com/user-attachments/assets/eb23fef6-b32e-4fd0-8e68-50d18c64a907" />
+*Figure 1.1: Home Screen
+
+![figure 2] <img width="467" height="807" alt="quiz screen" src="https://github.com/user-attachments/assets/f534fd55-f338-4067-9f93-28aad25d4a61" />
+*Figure 1.2: Quiz Screen
+
+[figure 3] <img width="468" height="810" alt="score screen" src="https://github.com/user-attachments/assets/c0f6b80f-0e80-485f-9ea1-e44cc618812b" />
+*Figure 1.3: Score Screen
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: 
