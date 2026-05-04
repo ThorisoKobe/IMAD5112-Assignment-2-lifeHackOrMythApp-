@@ -10,7 +10,7 @@
 
 ## Links
 - **GitHub Repository**: https://github.com/ThorisoKobe/IMAD5112-Assignment-2-lifeHackOrMythApp-/tree/main
-- **YouTube Video**: 
+- **YouTube Video**: https://youtu.be/RBm4-8hD_4c?si=r-f0w0m2i2SIri2a 
   
 
 ## Project Overview
@@ -77,16 +77,16 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ### App Screenshots:
 ![figure 1:] <img width="468" height="804" alt="home screenn" src="https://github.com/user-attachments/assets/eb23fef6-b32e-4fd0-8e68-50d18c64a907" />
-*Figure 1.1: Home Screen
+*Figure 1.1: score screen
 
 ![figure 2] <img width="467" height="807" alt="quiz screen" src="https://github.com/user-attachments/assets/f534fd55-f338-4067-9f93-28aad25d4a61" />
-*Figure 1.2: Quiz Screen
+*Figure 1.2: Home Screen
 
 [figure 3] <img width="468" height="810" alt="score screen" src="https://github.com/user-attachments/assets/c0f6b80f-0e80-485f-9ea1-e44cc618812b" />
-*Figure 1.3: Score Screen
+*Figure 1.3: Quiz Screen
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: 
+A video showcasing the app's functionality can be viewed here: https://youtu.be/RBm4-8hD_4c?si=r-f0w0m2i2SIri2a 
 ---
 
 7. Challenges and Learnings
@@ -153,6 +153,6 @@ Wikipedia (2026) Android Studio. Available at: https://en.wikipedia.org/wiki/And
 -------------------
 ## List of Figures
 
-- **Figure 1**: Screenshot of the app's home screen.
-- **Figure 2**: Screenshot of the Quiz screen.
-- **Figure 3**: Screenshot of the Score screen.
+- **Figure 1**: Screenshot of the app's score screen.
+- **Figure 2**: Screenshot of the Home screen.
+- **Figure 3**: Screenshot of the Quiz screen.
