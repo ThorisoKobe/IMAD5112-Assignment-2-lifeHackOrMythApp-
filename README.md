@@ -100,7 +100,7 @@ During the development of this project, I encountered several challenges, includ
 1. **Challenge 1**: Implementing an error message.
    - **Solution**: I used the else function under the suggest button
 2. **Challenge 2**:Colour changing
-   - **Solution**:  .
+   - **Solution**: used setting on the atributes columb.
 
 From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
 
